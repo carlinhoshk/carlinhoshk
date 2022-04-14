@@ -8,4 +8,4 @@ Sou um Tecnocrata Comum...
 ![C0ntador de Vizualização](https://profile-counter.glitch.me/carlinhoshk/count.svg)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlinhoshk&theme=highcontrast&show_icons=true)
+
