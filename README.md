@@ -12,3 +12,6 @@ Sou um Tecnocrata Comum...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22pom6qbb76uekvgxof4p3uha)
+
+
+Não queria deixar isso generico, porem odeio deixar as cosias Organizadas. Odeio Padronizar coisas a Maquina já faz isso tempo todo. Porque Logo eu o Humano tenho que me 'Padronizar' ? 
