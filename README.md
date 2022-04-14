@@ -10,3 +10,5 @@ Sou um Tecnocrata Comum...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22pom6qbb76uekvgxof4p3uha)
