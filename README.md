@@ -6,7 +6,7 @@
 
   <img height="180em" src="https://user-images.githubusercontent.com/40872405/153966396-a373f490-6f47-499d-8955-46a5d86752bb.gif" align="center"/>
   
-  <img src="https://profile-counter.glitch.me/carlinhoshk/count.svg"/>
+  <img src="https://profile-counter.glitch.me/carlinhoshk/count.svg" align="right"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&theme=highcontrast" align="center"/>
 
