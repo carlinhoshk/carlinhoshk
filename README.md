@@ -14,10 +14,13 @@
   <img align="center" alt="Carlos-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 </div>
 
-## Tenho como Linguagem Padrão
+## Tenho como Conhecimento Padrão
 
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"> 
+  <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+  
 ## Tenho Conhecimento
 
 <div style="display: inline_block"><br>
