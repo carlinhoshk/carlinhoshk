@@ -51,4 +51,3 @@
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22pom6qbb76uekvgxof4p3uha)
-
