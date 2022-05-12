@@ -9,6 +9,8 @@ Codigo de Qualidade vem de Boas práticas de programação dependendo da linguag
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true"/>
 
+[![Carlinhoshk Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlinhoshk&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@carlinhoshk)
+
 ## Estou Estudando no Momento
 
 <div style="display: inline_block"><br>
