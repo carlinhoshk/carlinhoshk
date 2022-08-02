@@ -43,6 +43,9 @@
   <img align="center" alt="Carlos-MSDOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">  
   <img align="center" alt="Carlos-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" >  
   <img align="center" alt="Carlos-RASP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">  
+  <IMG alin="center" alt="Carlos-WSL" height="30" width="40" src="https://user-images.githubusercontent.com/40872405/182265231-87604cbf-bc72-4ace-a91f-5332c4e86f48.png">
+
+
      
 </div>
 
