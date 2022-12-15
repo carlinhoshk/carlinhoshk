@@ -8,8 +8,9 @@
     <img src="https://user-images.githubusercontent.com/40872405/153966396-a373f490-6f47-499d-8955-46a5d86752bb.gif" height=170 width=300>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true" >
   </div>
+<p align="center">
 <img src="https://profile-counter.glitch.me/carlinhoshk/count.svg">
-
+</p>
 
 ## Como tenho muito repositorios eu decidi dividir nessas seções recolhidas.
 
