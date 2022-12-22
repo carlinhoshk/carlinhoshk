@@ -2,6 +2,9 @@
 > 
 ### Sou um Tecnocrata Comum...
 
+- SE o Quarto do @linus torvalds é dessarumado,
+- Porque eu deveria ter o meu arrumado ?
+
 
 
 <div style="display: inline_block"><br>
