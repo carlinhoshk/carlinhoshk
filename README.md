@@ -2,8 +2,8 @@
 > 
 ### Sou um Tecnocrata Comum...
 
-- SE o Quarto do @linus torvalds é dessarumado,
-- Porque eu deveria ter o meu arrumado ?
+- SE nem minhas aréa de trabalho Windows é arrumada,
+-Porque eu iria arrumar meu quarto ? 
 
 
 
