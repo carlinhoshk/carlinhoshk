@@ -135,21 +135,7 @@
 
 <br/>  
 
-
-
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22pom6qbb76uekvgxof4p3uha&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22pom6qbb76uekvgxof4p3uha&cover_image=true&theme=default&show_offline=true&background_color=121212" /></div>  
 
 <br/>  
-
-
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
