@@ -1,19 +1,31 @@
 # README.md
 > 
-### Sou um Tecnocrata Comum...
+###### isso é um perfil técnico eu falo menos de mim como pessoa e foco mais em mim como profissional. 
 
-- SE nem minhas aréa de trabalho Windows é arrumada,
--Porque eu iria arrumar meu quarto ? 
-
+### Sou um Tecnocrata Comum,
 
 
-<div style="display: inline_block"><br>
-    <img src="https://user-images.githubusercontent.com/40872405/153966396-a373f490-6f47-499d-8955-46a5d86752bb.gif" height=170 width=300>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true" >
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F714&background=000000&width=435&lines=Carlos+Oliveira;Carlinhoshk)](https://git.io/typing-svg)
+
+<div>
+    <img src="https://user-images.githubusercontent.com/40872405/153966396-a373f490-6f47-499d-8955-46a5d86752bb.gif" height=170 width=300 style="display: inline-block;">
+    <p style="display: inline-block 20px;">
+        Sou bom no que faço, mas sou péssimo em fazer o que querem...
+        Estudando sistemas legados só para ter a liberdade de manter e não criar.
+        <br>
+        - SE nem minhas aréa de trabalho Windows é arrumada,
+        <br>
+        -Porque eu iria arrumar meu quarto ? 
+    </p>
+</div>
+
+
+
 <p align="center">
+
 <img src="https://profile-counter.glitch.me/carlinhoshk/count.svg">
 </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true" >
 
 ## Como tenho muito repositorios eu decidi dividir nessas seções recolhidas.
 
@@ -133,15 +145,32 @@
 ## Estou Estudando no Momento
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
   <img align="center" alt="Carlos-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+  <img align="center" alt="Carlos-Cobol" height="30"
+  width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
+  <img align="center" alt="Carlos-AWS" height="30"
+  width="40" src="https://img.icons8.com/color/512/amazon-web-services.png">  
+    <img align="center" alt="Carlos-Azure" height="30"
+  width="40" src="https://img.icons8.com/fluency/512/azure-1.png">
+  <img align="center" alt="Carlos-Compse" height="30" width="40" src="https://collabnix.com/wp-content/uploads/2016/07/Compose.png">
+  <img align="center" alt="Carlos-KS8" height="30" width="40" src="https://img.icons8.com/color/512/kubernetes.png">
+  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">
+  <img align="center" alt="Carlos-TS" height="30" width="40" src="https://img.icons8.com/color/512/typescript.png">
+    <img align="center" alt="Carlos-Flask" height="30" width="40"src="https://img.icons8.com/cute-clipart/512/flask.png"> 
+  
+
 </div>
 
 ## Tenho como Conhecimento Padrão
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Carlos-Boot" height="30" width="40" src="https://img.icons8.com/color/512/spring-logo.png">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"> 
+  <img align="center" alt="Carlos-Opencv" height="30" width="40"src="https://img.icons8.com/color/512/opencv.png"> 
   <img align="center" alt="Carlos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
   
 ## Tenho Conhecimento
