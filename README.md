@@ -8,9 +8,9 @@
 
 ### <div align="center">I'm carlinhoshk, just another ordinary guy👨‍💻 working with programming since 2016 🚀</div>  
   
-
-- 🔭 I’m currently working on linkdinamica  
-  
+ <!--- 
+  - 🔭 I’m currently working on linkdinamica  
+   -->
 
 - 🌱 I’m currently learning COBOL and Kubernetes  
   
