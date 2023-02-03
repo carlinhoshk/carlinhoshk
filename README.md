@@ -10,7 +10,7 @@
   
   🔭 I’m currently working on [estudos-go](https://github.com/carlinhoshk/estudos-go)
 
-- 🌱 I’m currently learning COBOL and Kubernetes  
+- 🌱 I’m currently learning COBOL and Python  
   
 
 - 🚬 I’m a non-compulsive smoker  
