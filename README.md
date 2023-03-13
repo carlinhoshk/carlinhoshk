@@ -8,7 +8,6 @@
 
 ### <div align="center">I'm carlinhoshk, just another ordinary guy👨‍💻 working with programming since 2016 🚀</div>  
   
-  🔭 I’m currently working on [estudos-go](https://github.com/carlinhoshk/estudos-go)
 
 - 🌱 I’m currently learning COBOL and Python  
   
