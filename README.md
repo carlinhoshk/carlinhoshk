@@ -1,3 +1,35 @@
+# I'm carlinhoshk, just another ordinary guy👨‍💻
+
+<br/>  
+
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/carlinhoshk_sh" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/carlinhoshk" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/carlinhoshk" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/carlinhoshk.sh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/carlosmds" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/carlosmdohk" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
 <div align="center">
 <img src="https://64.media.tumblr.com/tumblr_m8jy6shcmy1qdku5lo8_r1_250.gifv" align="center" style="width: 900px" />
 
@@ -6,10 +38,9 @@
 <div align="center">
 <img src="https://profile-counter.glitch.me/carlinhoshk/count.svg" />  
 
-### <div align="center">I'm carlinhoshk, just another ordinary guy👨‍💻 working with programming since 2016 🚀</div>  
-  
 
-- 🌱 I’m currently learning COBOL and Python  
+
+- 🌱 I’m currently learning Java and Python  
   
 
 - 🚬 I’m a non-compulsive smoker  
@@ -21,12 +52,23 @@
 <br/>  
 
 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlinhoshk&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlinhoshk&hide=Html&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlinhoshk&theme=highcontrast) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlinhoshk&theme=highcontrast) | ![](https://github-readme-streak-stats.herokuapp.com/?user=carlinhoshk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
 ### Frontend  
+<details>
+<summary>Clique</summary>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -40,9 +82,13 @@
 
 </td><td valign="top" width="33%">
 
+</details>
 
 
-### Backend  
+
+### Backend
+<details>
+<summary>Clique</summary>
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -73,10 +119,12 @@
 </div>
 
 </td><td valign="top" width="33%">
+</details>
 
 
-
-### Cloud  
+### Cloud 
+<details>
+<summary>Clique</summary>
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -93,48 +141,15 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/carlinhoshk_sh" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/carlinhoshk" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carlinhoshk" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/carlinhoshk.sh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/carlosmds" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/carlosmdohk" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
+</details>
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true"/></div>  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22pom6qbb76uekvgxof4p3uha&cover_image=true&theme=default&show_offline=true&background_color=121212" /></div>  
 
-<br/>  
-
-### My Projects:
+### Projects:
 
 <details><summary>Java: CLICK ME</summary>
 <p>
