@@ -51,14 +51,14 @@
 
 <br/>  
 
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlinhoshk&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlinhoshk&hide=Html&theme=highcontrast) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlinhoshk&theme=highcontrast) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlinhoshk&theme=highcontrast) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlinhoshk&theme=highcontrast) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlinhoshk&theme=highcontrast) | ![](https://github-readme-streak-stats.herokuapp.com/?user=carlinhoshk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlinhoshk&theme=highcontrast) | ![]([![GitHub Streak](https://streak-stats.demolab.com?user=carlinhoshk&theme=highcontrast&hide_border=true) |
 | :-: | :-: |
 
+## Github Stats  
+<div align="center"><img src=""/></div>  
 
 
 ## My Skill Set  
@@ -142,10 +142,6 @@
 </td></tr></table>  
 
 </details>
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true"/></div>  
 
 
 
