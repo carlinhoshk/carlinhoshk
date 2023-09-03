@@ -27,6 +27,8 @@
 </p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true" >
 
+![](https://github-readme-stats.vercel.app/api/wakatime?username=carlinhoshk&layout=compact&locale=pt-br&show_icons=true&theme=highcontrast&&include_all_commits=true&count_private=true) 
+
 ## Como tenho muito repositorios eu decidi dividir nessas seções recolhidas.
 
 ### Projetos:
