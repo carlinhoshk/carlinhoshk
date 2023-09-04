@@ -51,14 +51,15 @@
 
 <br/>  
 
+## Github Stats  
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlinhoshk&theme=highcontrast) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlinhoshk&layout=compact&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&size=large) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlinhoshk&theme=highcontrast) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlinhoshk&theme=highcontrast) | ![](https://streak-stats.demolab.com?user=carlinhoshk&theme=highcontrast&hide_border=true) | 
 | :-: | :-: |
 
-## Github Stats  
-<div align="center"><img src=""/></div>  
+
 
 
 ## My Skill Set  
