@@ -60,7 +60,7 @@
           </a>
           <!-- Exemplo: repositório demonstrando uso de Azure -->
           <a href="https://www.credly.com/badges/a5e5c819-d4a5-45e6-9fd2-389ede568d42/linked_in_profile" target="_blank">
-            <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Azure_Logo.svg" alt="Azure" height="50" />
+            <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" height="50" />
           </a>
         </div>
       </details>
