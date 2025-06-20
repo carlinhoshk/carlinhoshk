@@ -3,8 +3,9 @@
 
 - 🌱 Currently working on:
  [C](https://github.com/carlinhoshk/carlinhoshk-codecrafters-shell-c), [Cpp](https://github.com/carlinhoshk/Recozimento-Simulado), [Java](https://github.com/carlinhoshk/Projeto-CAP), [Python](https://github.com/carlinhoshk/DCK), [LUA](https://github.com/carlinhoshk/C-dotfiles), [CUDA](https://github.com/carlinhoshk/vault/blob/main/04%20-%20Projetos/OpenCV%20com%20plot%20dinamico%20de%20Resultado.md)
-  
-<br/>  
+
+
+![Contador de visitas](https://profile-counter.glitch.me/carlinhoshk/count.svg)
 
 ## Github Stats  
 
