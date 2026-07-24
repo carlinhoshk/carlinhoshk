@@ -1,14 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Zero+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Desenvolvedor+Backend+%7C+Vis%C3%A3o+Computacional+%7C+Cloud" alt="Typing SVG" />
-
+  
 ![Contador de visitas](https://profile-counter.deno.dev/carlinhoshk/count.svg)
 
 </div>
 
-## About Me
-
-Desenvolvedor Backend com foco em Java, Python e Go. Apaixonado por visão computacional, cloud computing e sistemas de baixo nível. Estudante de ADS na Anhanguera com certificações AWS e Azure.
+Desenvolvedor Backend com foco em Java, Python e Go. Especializado em visão computacional, cloud computing e sistemas de baixo nível. Estudante de ADS com certificações AI 900 Azure e Oracle database manager .
 
 ## Currently working on
 
