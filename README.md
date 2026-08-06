@@ -1,7 +1,3 @@
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?carlinhoshk&label=PROFILE+VIEWS)
-</div>
 
 Desenvolvedor Backend com foco em Java, Python e Go. Especializado em visão computacional, cloud computing e sistemas de baixo nível. Estudante de ADS com certificações AI 900 Azure e Oracle database manager .
 
@@ -390,3 +386,7 @@ Desenvolvedor Backend com foco em Java, Python e Go. Especializado em visão com
 
 </p>
 </details>
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=carlinhoshk&abbreviated=true)
+</div>
